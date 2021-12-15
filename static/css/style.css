@@ -1,0 +1,17 @@
+h1 {
+    border: 2px #eee solid;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    border: 2px #eee solid;
+    color: blue;
+    text-align: center;
+    padding: 10px;
+}
+ p {
+        font-size: 15pt;
+        text-align: right;
+    }
