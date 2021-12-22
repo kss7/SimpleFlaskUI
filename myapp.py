@@ -22,7 +22,3 @@ def hello_name(name):
 
 if __name__ == '__main__':
    app.run(host ='0.0.0.0', debug = True)
-
-## Ref:
-## https://towardsdatascience.com/create-and-deploy-a-simple-web-application-with-flask-and-heroku-103d867298eb
-## https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
