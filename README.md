@@ -7,4 +7,4 @@
 - Jenkins Server on Linux
 - Linux Server with docker installed
 
-[Tutorial here](https://www.youtube.com/c/KumarS1)
+[Tutorial here](https://youtu.be/jHkbtzemsGs)
