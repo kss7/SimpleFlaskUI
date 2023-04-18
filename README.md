@@ -1,4 +1,4 @@
-# CI/CD With Jenkins, Python, Docker
+# CI/CD With Jenkins, Python, Docker with code static analysis
 
 - Python 3x, PyCharm
 - Docker, DockerHub account
